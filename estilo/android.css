@@ -69,7 +69,7 @@ header > h1{
     max-width: 600px;
     margin: auto;
     text-shadow: 2px 2px 0px black;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 nav{
     background-color:var(--cor05) ;
